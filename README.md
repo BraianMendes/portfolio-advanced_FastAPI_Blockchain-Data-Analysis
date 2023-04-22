@@ -123,6 +123,7 @@ For more information, visit the BlockCypher documentation.
 
 ## Important Sites
 1. https://www.infura.io/
+2. https://www.blockcypher.com/
 
 ## Future Features
 
