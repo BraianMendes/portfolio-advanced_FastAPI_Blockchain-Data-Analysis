@@ -1,124 +1,109 @@
-# portfolio-advanced_template
+<h1 align="center">Welcome to FastAPI NLP API 👋</h1>
+<p align="center">
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <a href="https://twitter.com/braian_dev" target="_blank">
+    <img alt="Twitter: 'braian_dev'" src="https://img.shields.io/twitter/follow/braian_dev.svg?style=social" />
+  </a>
+</p>
 
 <p align="center">
-
-# Frontend
-
-## React.js
-<img src="https://img.shields.io/badge/Made%20With-React.js-61DAFB?logo=react&style=for-the-badge">
-
-## Angular
-<img src="https://img.shields.io/badge/Made%20With-Angular-DD0031?logo=angular&style=for-the-badge">
-
-## Vue.js
-<img src="https://img.shields.io/badge/Made%20With-Vue.js-4FC08D?logo=vue.js&style=for-the-badge">
-
-## Svelte
-<img src="https://img.shields.io/badge/Made%20With-Svelte-FF3E00?logo=svelte&style=for-the-badge">
-
-## Next.js
-<img src="https://img.shields.io/badge/Made%20With-Next.js-000000?logo=next.js&style=for-the-badge">
-
-## Nuxt.js
-<img src="https://img.shields.io/badge/Made%20With-Nuxt.js-00C58E?logo=nuxt.js&style=for-the-badge">
-
-## Flutter
-<img src="https://img.shields.io/badge/Made%20With-Flutter-02569B?logo=flutter&style=for-the-badge">
-
-## SwiftUI
-<img src="https://img.shields.io/badge/Made%20With-SwiftUI-FF7F50?logo=swift&style=for-the-badge">
-
-# CSS & UI Frameworks
-
-## Styled Components
-<img src="https://img.shields.io/badge/Made%20With-Styled.Components-DB7093?logo=styled-components&style=for-the-badge">
-
-## Tailwind CSS
-<img src="https://img.shields.io/badge/Made%20With-Tailwind%20CSS-38B2AC?logo=tailwind-css&style=for-the-badge">
-
-## Material-UI
-<img src="https://img.shields.io/badge/Made%20With-Material--UI-0081CB?logo=material-ui&style=for-the-badge">
-
-## Bootstrap
-<img src="https://img.shields.io/badge/Made%20With-Bootstrap-7952B3?logo=bootstrap&style=for-the-badge">
-
-# Backend
-
-## Node.js
-<img src="https://img.shields.io/badge/Made%20With-Node.js-339933?logo=node.js&style=for-the-badge">
-
-## Ruby on Rails
-<img src="https://img.shields.io/badge/Made%20With-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&style=for-the-badge">
-
-## Django
-<img src="https://img.shields.io/badge/Made%20With-Django-092E20?logo=django&style=for-the-badge">
-
-## Express.js
-<img src="https://img.shields.io/badge/Made%20With-Express.js-000000?logo=express&style=for-the-badge">
-
-## Laravel
-<img src="https://img.shields.io/badge/Made%20With-Laravel-FF2D20?logo=laravel&style=for-the-badge">
-
-## Golang
-<img src="https://img.shields.io/badge/Made%20With-Golang-00ADD8?logo=go&style=for-the-badge">
-
-## Spring Boot
-<img src="https://img.shields.io/badge/Made%20With-Spring%20Boot-6DB33F?logo=spring&style=for-the-badge">
-
-## .NET
-<img src="https://img.shields.io/badge/Made%20With-.NET-512BD4?logo=.net&style=for-the-badge">
-
-## Flask
-<img src="https://img.shields.io/badge/Made%20With-Flask-000000?logo=flask&style=for-the-badge">
-
-## FastAPI
-<img src="https://img.shields.io/badge/Made%20With-FastAPI-009688?logo=fastapi&style=for-the-badge">
-
-## NestJS
-<img src="https://img.shields.io/badge/Made%20With-NestJS-E0234E?logo=nestjs&style=for-the-badge">
-
-# Databases & Data Processing
-
-## Firebase
-<img src="https://img.shields.io/badge/Made%20With-Firebase-FFCA28?logo=firebase&style=for-the-badge">
-
-## Redis
-<img src="https://img.shields.io/badge/Made%20With-Redis-DC382D?logo=redis&style=for-the-badge">
-
-## Elasticsearch
-<img src="https://img.shields.io/badge/Made%20With-Elasticsearch-005571?logo=elasticsearch&style=for-the-badge">
-
-## Apache Kafka
-<img src="https://img.shields.io/badge/Made%20With-Apache%20Kafka-231F20?logo=apache-kafka&style=for-the-badge">
-
-# API & Data Exchange
-
-## GraphQL
-<img src="https://img.shields.io/badge/Made%20With-GraphQL-E10098?logo=graphql&style=for-the-badge">
-
-## RxJS
-<img src="https://img.shields.io/badge/Made%20With-RxJS-B7178C?logo=reactivex&style=for-the-badge">
-
-## Apollo GraphQL
-<img src="https://img.shields.io/badge/Made%20With-Apollo%20GraphQL-311C87?logo=apollo-graphql&style=for-the-badge">
-
-# Desktop & Mobile Application Development
-
-## Electron
-<img src="https://img.shields.io/badge/Made%20With-Electron-47848F?logo=electron&style=for-the-badge">
-
-# Language & Build Tools
-
-## Yarn
-<img src="https://img.shields.io/badge/Made%20With-Yarn-2C8EBB?logo=yarn&style=for-the-badge">
-
-## TypeScript
-<img src="https://img.shields.io/badge/Made%20With-TypeScript-3178C6?logo=typescript&style=for-the-badge">
-
-
-# Cloud & Serverless
-
-## AWS Lambda
-<img src="https://img.shields.io/badge/Made%20With-AWS%20Lambda-FF9900?logo=amazon-aws&style=for-the-badge">
-
+  <img src="https://img.shields.io/badge/Made%20With-FastAPI-009688?logo=fastapi&style=for-the-badge">
 </p>
+
+> The project is 
+
+<p align="center">
+  <img src="img.png" alt="Preview">
+</p>
+
+<h2>Installation</h2>
+
+Follow these steps to install and run the project locally:
+
+
+* Create a Python virtual environment (recommended):
+
+```
+python -m venv venv
+```
+
+* Activate the virtual environment:
+
+On Windows:
+
+```
+venv\Scripts\activate
+```
+
+On macOS/Linux:
+
+```
+source venv/bin/activate
+```
+
+  * Install the dependencies:
+
+``` 
+pip install -r requirements.txt
+``` 
+
+* Start the FastAPI server:
+
+```
+uvicorn main:app --reload
+```
+
+## Requirements
+
+1. **Retrieve block information**: Obtain information about a specific block (block height, hash, transactions, etc.)
+2. **Retrieve transaction information**: Obtain information about a specific transaction (hash, sender, recipient, value, fee, etc.)
+3. **Retrieve address information**: Obtain information about a specific address (balance, transaction history, etc.)
+4. **Calculate basic network statistics**: Calculate basic network statistics (hash rate, difficulty, number of transactions, etc.)
+
+Based on these requirements, we created the following API endpoints:
+
+- `/block/{blockchain}/{block_id}`
+- `/transaction/{blockchain}/{transaction_id}`
+- `/address/{blockchain}/{address}`
+- `/stats/{blockchain}`
+
+## Libraries and External Services
+
+1. **web3.py**: Python library for interacting with the Ethereum blockchain. It will allow us to obtain information about blocks, transactions, and addresses.
+   Documentation: https://web3py.readthedocs.io/en/stable/
+
+2. **bitcoinrpc**: Python library for interacting with the Bitcoin blockchain via its RPC interface. It will allow us to obtain information about blocks, transactions, and addresses.
+   Documentation: https://github.com/jgarzik/python-bitcoinrpc
+
+3. **requests**: Library for making HTTP requests. It may be useful for obtaining information from external APIs, in case we need to supplement our data.
+   Documentation: https://docs.python-requests.org/en/master/
+
+
+## Future Features
+
+1. **Real-time transaction tracking**: Provide real-time updates for new transactions on the network, enabling users to monitor transactions as they occur.
+2. **Token tracking**: Support for tracking ERC-20 and other custom tokens on the Ethereum network, providing information about token balances and transactions.
+3. **Smart contract interaction**: Allow users to interact with smart contracts on the Ethereum network, such as querying contract data or sending transactions to execute contract functions.
+4. **Advanced analytics**: Perform advanced analytics on the blockchain data, such as detecting patterns, trends, and anomalies, and providing insights on network usage and user behavior.
+5. **Data export**: Enable users to export blockchain data and analysis results in various formats (CSV, JSON, etc.), facilitating integration with other tools and platforms.
+6. **Multi-chain support**: Extend the API to support additional blockchains, increasing the range of use cases and applications.
+7. **User authentication and authorization**: Implement user authentication and authorization features to ensure the security and privacy of API usage and user data.
+
+## Author
+
+<h5>Thank you very much for reading so far. I'm open for everything, and I really hope to see you next time. Best Regards, Braian.</h5>
+
+👤 **Braian Mendes**
+
+* Instagram [@braian.tech](https://www.instagram.com/braian.tech)
+* Twitter: [@braian_dev](https://twitter.com/braian_dev)
+* Github: [@BraianMendes](https://github.com/BraianMendes)
+* LinkedIn: [@braianmendes](https://linkedin.com/in/braianmendes)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+<a href="https://www.patreon.com/braian_dev">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
