@@ -10,7 +10,11 @@
   <img src="https://img.shields.io/badge/Made%20With-FastAPI-009688?logo=fastapi&style=for-the-badge">
 </p>
 
-> The project is 
+> The project is a comprehensive blockchain data analysis platform built using FastAPI. It provides a RESTful API for interacting with and analyzing data from multiple blockchains, including Ethereum and Bitcoin. By utilizing powerful libraries such as web3.py and third-party services like Infura and BlockCypher, this platform offers users a unified and efficient way to gather essential information from different blockchain networks.
+
+> With its well-documented and easy-to-use API endpoints, users can access crucial data about blocks, transactions, addresses, and overall network statistics. The project is designed to be highly modular and can easily be extended to support additional blockchain networks in the future. Furthermore, the use of FastAPI ensures excellent performance, automatic validation of request and response data, and interactive API documentation through SwaggerUI.
+
+> This platform can serve a wide range of use cases, from developers building blockchain-based applications to researchers, analysts, and enthusiasts who require in-depth information about various blockchain networks. Overall, this project aims to simplify blockchain data analysis and offer a powerful tool for users to access and understand the complex world of distributed ledger technology.
 
 <p align="center">
   <img src="img.png" alt="Preview">
@@ -78,6 +82,47 @@ Based on these requirements, we created the following API endpoints:
 3. **requests**: Library for making HTTP requests. It may be useful for obtaining information from external APIs, in case we need to supplement our data.
    Documentation: https://docs.python-requests.org/en/master/
 
+### Infura
+
+Infura is a hosted Ethereum and IPFS (InterPlanetary File System) infrastructure service that provides developers with a scalable and reliable API to access Ethereum and IPFS networks. It eliminates the need to set up, maintain, and synchronize a full Ethereum node, making it easier and faster to build decentralized applications (dApps) and interact with the Ethereum blockchain.
+
+We are using Infura because it offers the following advantages:
+
+    Scalability: Infura can handle a large number of requests and scales automatically as your application grows, reducing the need for infrastructure management.
+    Reliability: Infura provides a high-availability service with multiple redundancies, ensuring consistent access to the Ethereum network.
+    Ease of use: By using Infura, we can quickly access Ethereum data and interact with smart contracts without setting up and maintaining our own Ethereum node.
+
+In addition to the basic Ethereum API, Infura also provides several advanced features:
+
+    Real-time event notifications: Infura supports Websockets for real-time updates on events, such as new blocks, transactions, and contract events.
+    IPFS integration: Infura provides a gateway to the IPFS network, which is a distributed file storage system. This can be useful for storing and retrieving large files in a decentralized manner.
+    Ethereum archive data: Infura offers access to historical Ethereum data, enabling deeper analysis and insights into the Ethereum blockchain.
+    Custom solutions: Infura provides custom infrastructure solutions tailored to specific business needs, such as dedicated nodes and private Ethereum networks.
+
+By using Infura in our project, we can easily interact with the Ethereum blockchain and focus on building our application instead of managing the underlying infrastructure.
+
+### BlockCypher
+
+BlockCypher is a cloud-optimized blockchain infrastructure that provides API services for developers and enterprises to interact with various blockchains like Bitcoin, Ethereum, and Litecoin. It offers robust, scalable, and secure APIs, making it easier for developers to build and deploy blockchain applications without the need to maintain their own full nodes.
+
+We are using BlockCypher because:
+
+    Ease of use: BlockCypher provides simple RESTful APIs to interact with multiple blockchains, making it easy to integrate into our application.
+    Scalability: BlockCypher's infrastructure is designed to handle high volumes of requests, ensuring our application performs well under load.
+    Security: BlockCypher is built with security in mind, offering features such as address validation and transaction signing to help protect our application from common security threats.
+    Reduced overhead: By using BlockCypher, we can avoid the need to maintain and sync our own full nodes, reducing the overhead and complexity of our application.
+
+With BlockCypher, we can do much more than just querying block and transaction data. Some additional features include:
+
+    WebHooks and WebSockets: Receive real-time notifications about events happening on the blockchain, such as new transactions or blocks.
+    Transaction API: Create, sign, and broadcast transactions on the blockchain, allowing our application to send and manage funds.
+    Address API: Generate new addresses and manage existing ones, enabling our application to create and monitor multiple wallets.
+    Analytics API: Access blockchain analytics and insights, such as transaction volume, address distribution, and more.
+
+For more information, visit the BlockCypher documentation.
+
+## Important Sites
+1. https://www.infura.io/
 
 ## Future Features
 
