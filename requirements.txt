@@ -2,5 +2,5 @@ fastapi==0.68.1
 uvicorn==0.15.0
 web3
 python-bitcoinrpc==1.0
-requests==2.26.0
+requests==2.31.0
 python-dotenv
